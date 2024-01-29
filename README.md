@@ -1,11 +1,16 @@
 # Public Project Examples
-An example of code for various public projects.
+An example of code for various public projects of mine.
 
 ## Senior Thesis 
-I am currently working on a senior thesis for honors achievment in the astrophysics B.S. program at UChicago. My advisor is [Michael Zhang](https://astro.uchicago.edu/~mz/) in Jacob Bean's Exoplanet Group.
+I am currently working on a senior thesis for honors achievment in the astrophysics B.S. program at UChicago. My advisor is [Michael Zhang](https://astro.uchicago.edu/~mz/) in Jacob Bean's Exoplanet Group. 
+
+Using hydrodynamics+photoionization simulation TPCI (The PLUTO-CLOUDY Interface), I am investigating the observability of certain spectral emission lines in escaping exoplanet atmospheres. Work will be completed in the spring, but you can see an [example of my data analysis pipeline here](2024_thesis_analyze_continuum.ipynb).
+
+## Neutrino Group
+During the Summer of 2022, I was a Quad Summer Scholar in [UChicago's Neutrino Group](https://voices.uchicago.edu/neutrino/), working with Gray Putnam and Professor David Schmitz. I mainly analyzed particle physics data using weighted histograms and a small custom MC. Ultimately I presented my research at the [2023 UChicago Research Symposium](2023_ResearchSymposium_Poster.jpg). 
 
 ## Classwork Code
-I have a selection of code written for various homework assignments, particularly for ASTR258 Exoplanets.
+I have a selection of code written for various homework assignments, particularly for ASTR258 Exoplanets (Spring 2023), such as [HW3](2023_RRosener_hw3_nb.ipynb) and [HW4](2023_RRosener_hw4.ipynb) which display various plotting and MCMC data fitting functions.
 
 # Private Project Examples
 Unfortunately, much of my project work is private and cannot be shared, but I will share some relevant information about those projects below.
