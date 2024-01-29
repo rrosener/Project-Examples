@@ -6,7 +6,7 @@ I am currently working on a senior thesis for honors achievment in the astrophys
 
 Using hydrodynamics+photoionization simulation TPCI (The PLUTO-CLOUDY Interface), I am investigating the observability of certain spectral emission lines in escaping exoplanet atmospheres. Work will be completed in the spring, but you can see an [example of my data analysis pipeline here](2024_thesis_analyze_continuum.ipynb).
 
-We are also updating the TPCI code to fix bugs and function better with the newer versions of PLUTO and CLOUDY. The [PyTPCI repository](https://github.com/ideasrule/pytpci) is public, and Michale and I will be publishing a paper on it and its results in the near future.
+We are also updating the TPCI code to fix bugs and function better with the newer versions of PLUTO and CLOUDY. The [PyTPCI repository](https://github.com/ideasrule/pytpci) is public, and Michael and I will be publishing a paper on it and its results in the near future.
 
 ## Neutrino Group
 During the Summer of 2022, I was a Quad Summer Scholar in [UChicago's Neutrino Group](https://voices.uchicago.edu/neutrino/), working with Gray Putnam and Professor David Schmitz. I mainly analyzed particle physics data using weighted histograms and a small custom MC. Ultimately I presented my research at the [2023 UChicago Research Symposium](2023_ResearchSymposium_Poster.jpg). A brief example of my histogram creation can be seen [here](2022_scalartime_hist.py).
