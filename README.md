@@ -2,7 +2,7 @@
 An example of code for various public projects of mine.
 
 ## Senior Thesis 
-I am currently working on a senior thesis for honors achievment in the astrophysics B.S. program at UChicago. My advisor is [Michael Zhang](https://astro.uchicago.edu/~mz/) in Jacob Bean's Exoplanet Group. 
+I am currently working on a senior thesis for honors achievment in the astrophysics B.S. program at UChicago. My advisor is [Michael Zhang](https://astro.uchicago.edu/~mz/) in [Jacob Bean's Exoplanet Group](https://astro.uchicago.edu/~jbean/index.html). 
 
 Using hydrodynamics+photoionization simulation TPCI (The PLUTO-CLOUDY Interface), I am investigating the observability of certain spectral emission lines in escaping exoplanet atmospheres. Work will be completed in the spring, but you can see an [example of my data analysis pipeline here](2024_thesis_analyze_continuum.ipynb).
 
