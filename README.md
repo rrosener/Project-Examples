@@ -7,7 +7,7 @@ I am currently working on a senior thesis for honors achievment in the astrophys
 Using hydrodynamics+photoionization simulation TPCI (The PLUTO-CLOUDY Interface), I am investigating the observability of certain spectral emission lines in escaping exoplanet atmospheres. Work will be completed in the spring, but you can see an [example of my data analysis pipeline here](2024_thesis_analyze_continuum.ipynb).
 
 ## Neutrino Group
-During the Summer of 2022, I was a Quad Summer Scholar in [UChicago's Neutrino Group](https://voices.uchicago.edu/neutrino/), working with Gray Putnam and Professor David Schmitz. I mainly analyzed particle physics data using weighted histograms and a small custom MC. Ultimately I presented my research at the [2023 UChicago Research Symposium](2023_ResearchSymposium_Poster.jpg). 
+During the Summer of 2022, I was a Quad Summer Scholar in [UChicago's Neutrino Group](https://voices.uchicago.edu/neutrino/), working with Gray Putnam and Professor David Schmitz. I mainly analyzed particle physics data using weighted histograms and a small custom MC. Ultimately I presented my research at the [2023 UChicago Research Symposium](2023_ResearchSymposium_Poster.jpg). A brief example of my histogram creation can be seen [here](2022_scalartime_hist.py).
 
 ## Classwork Code
 I have a selection of code written for various homework assignments, particularly for ASTR258 Exoplanets (Spring 2023), such as [HW3](2023_RRosener_hw3_nb.ipynb) and [HW4](2023_RRosener_hw4.ipynb) which display various plotting and MCMC data fitting functions.
